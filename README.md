@@ -10,7 +10,7 @@
 
 ## Drawing and Animation
 
-- [ ] Drawing Paths and Shapes
+- [x] Drawing Paths and Shapes
 - [ ] Animating Views and Transitions
 
 ## App Design and Layout
