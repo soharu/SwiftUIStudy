@@ -47,6 +47,7 @@
 		49E4E0C2234F74A7008C93D0 /* HikeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49E4E0C1234F74A7008C93D0 /* HikeView.swift */; };
 		49E4E0C4234F7748008C93D0 /* HikeDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49E4E0C3234F7748008C93D0 /* HikeDetail.swift */; };
 		49FFA53A235C923200D30EA1 /* CategoryHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49FFA539235C923200D30EA1 /* CategoryHome.swift */; };
+		49FFA53C235C934D00D30EA1 /* CategoryRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49FFA53B235C934D00D30EA1 /* CategoryRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -92,6 +93,7 @@
 		49E4E0C1234F74A7008C93D0 /* HikeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeView.swift; sourceTree = "<group>"; };
 		49E4E0C3234F7748008C93D0 /* HikeDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeDetail.swift; sourceTree = "<group>"; };
 		49FFA539235C923200D30EA1 /* CategoryHome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryHome.swift; sourceTree = "<group>"; };
+		49FFA53B235C934D00D30EA1 /* CategoryRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -180,6 +182,7 @@
 				49E4E0C3234F7748008C93D0 /* HikeDetail.swift */,
 				49E4E0C1234F74A7008C93D0 /* HikeView.swift */,
 				49FFA539235C923200D30EA1 /* CategoryHome.swift */,
+				49FFA53B235C934D00D30EA1 /* CategoryRow.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -301,6 +304,7 @@
 				497A24B62345D1F100992A6F /* CircleImage.swift in Sources */,
 				49FFA53A235C923200D30EA1 /* CategoryHome.swift in Sources */,
 				497A24B92345D3C700992A6F /* MapView.swift in Sources */,
+				49FFA53C235C934D00D30EA1 /* CategoryRow.swift in Sources */,
 				49E4E0BE234F73B0008C93D0 /* HikeGraph.swift in Sources */,
 				4979B4A52345E24B00B34231 /* ImageStore.swift in Sources */,
 				49E4E0B8234F731B008C93D0 /* Hike.swift in Sources */,
