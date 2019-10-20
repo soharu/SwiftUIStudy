@@ -15,7 +15,7 @@
 
 ## App Design and Layout
 
-- [ ] Composing Complex Interfaces
+- [x] Composing Complex Interfaces
 - [ ] Working with UI Controls
 
 ## Framework Integration
